@@ -1,2 +1,2 @@
 //empty js
-console.log("welcome")
+console.log("welcome to web322 git class")
